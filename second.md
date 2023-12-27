@@ -1,1 +1,1 @@
-This is a git process training
+This is a git training
