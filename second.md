@@ -1,1 +1,1 @@
-This is a git process training
+Finding a job in 2024 will be very smooth
